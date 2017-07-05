@@ -175,7 +175,7 @@ string processPage(vector<int> pages) {
 
 int main(int argc, char *argv[]) {
   if( argc != 3 ) {
-    cerr << "Usage: " << argv[0] << " book.txt index.txt" << endl;
+    cerr << "Usage: " << argv[0] << " input.txt output.txt" << endl;
     exit(1);
   }
 
