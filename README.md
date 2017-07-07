@@ -17,7 +17,7 @@ $ ./skiplist input.txt output.txt
 
 to take `input.txt` and output to `output.txt`.
 
-`output.txt` will contain the words in an alphebatical order in the input file with frequency and pages of occurrences. 
+`output.txt` will contain the words in an alphabetical order in the input file with frequency and pages of occurrences. 
 
 # Example Output
 
